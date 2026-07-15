@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+    <compilation debug="true" targetFramework="4.8.1" tempDirectory="D:\Inetpub\vhosts\digitalbull.in\tmp" />
+    <httpRuntime targetFramework="4.8.1" />
+  </system.web>
+  <system.webServer>
+    <staticContent>
+      <mimeMap fileExtension=".webp" mimeType="image/webp" />
+    </staticContent>
+  </system.webServer>
+  <connectionStrings>
+    <add name="DefaultConnection" connectionString="Data Source=103.120.176.21;Initial Catalog=digit196_happyevent;Integrated Security=false;User Id=digit196_happyevent;Password=dzrPYVuy26#4n_aj;connect timeout=0;Max Pool Size=40000" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+</configuration>

@@ -1,0 +1,249 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Happy Event Group | Best Wedding & Event Planner in Gorakhpur</title>
+    <link rel="canonical" href="https://www.happyeventgroup.in/">
+    <meta name="theme-color" content="#c79b33">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="description" content="Happy Event Group is the leading Event Management Company in Gorakhpur offering Wedding Planning, Stage Shows, Live Singing, Celebrity Management, Bride & Groom Entry, DJ, Decorations and Event Services.">
+
+    <meta name="keywords"
+        content="Event Planner Gorakhpur, Wedding Planner Gorakhpur, Stage Show, Live Singing, Celebrity Management, Happy Event Group">
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+    </noscript>
+
+    <!-- CSS Libraries -->
+    <link rel="preload"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    </noscript>
+
+
+    <link rel="preload"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css">
+    </noscript>
+
+
+    <link rel="preload" href="lib/flaticon/font/flaticon.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="lib/owlcarousel/assets/owl.carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="lib/lightbox/css/lightbox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="lib/slick/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="lib/slick/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Template Stylesheet -->
+    <link rel="preload"
+        href="css/style.css"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <noscript>
+        <link rel="stylesheet" href="css/style.css">
+    </noscript>
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="wrapper">
+            <!-- Top Bar Start -->
+            <div class="top-bar">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-lg-4 col-md-12">
+                            <div class="logo">
+                                <a id="logo_link" runat="server">
+                                    <img src="img/logo.png"
+                                        alt="Happy Event Group"
+                                        width="500"
+                                        height="80"
+                                        loading="eager"
+                                        fetchpriority="high">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-7 d-none d-lg-block">
+                            <div class="row">
+
+                                <div class="col-6">
+                                    <div class="top-bar-item">
+                                        <div class="top-bar-icon">
+                                            <i class="flaticon-call"></i>
+                                        </div>
+                                        <div class="top-bar-text">
+                                            <h3>Call Us</h3>
+                                            <p>9889999285</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="top-bar-item">
+                                        <div class="top-bar-icon">
+                                            <i class="flaticon-send-mail"></i>
+                                        </div>
+                                        <div class="top-bar-text">
+                                            <h3>Email Us</h3>
+                                            <p>happyeventgroup1998@gmail.com</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Top Bar End -->
+
+            <!-- Nav Bar Start -->
+            <div class="nav-bar">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                        <a href="#" class="navbar-brand">MENU</a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto">
+                                <a id="home_link" runat="server" class="nav-item nav-link">Home</a>
+                                <a id="about_link" runat="server" class="nav-item nav-link">About</a>
+                                <a id="service_link" runat="server" class="nav-item nav-link">Service</a>
+                                <a id="gallery_link" runat="server" class="nav-item nav-link">Gallery</a>
+                                <a id="contact_link" runat="server" class="nav-item nav-link">Contact</a>
+                            </div>
+                            <div class="ml-auto">
+                                <a class="btn" href="tel:9889999285">Call Now</a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- Nav Bar End -->
+
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+    </form>
+
+    <!-- Footer Start -->
+    <div class="footer wow fadeIn" data-wow-delay="0.3s">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-contact">
+                        <h2>Office Contact</h2>
+                        <p><i class="fa fa-map-marker-alt"></i>Azad Chowk, Chilmapur, Rustampur, Gorakhpur, 273001</p>
+                        <p><i class="fa fa-phone-alt"></i>098899 99285</p>
+                        <%--<p><i class="fa fa-envelope"></i>happyeventgroup1998@gmail.com</p>--%>
+                        <div class="footer-social">
+                            <a href="https://www.facebook.com/happyeventgroupgkp1"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.youtube.com/@happyeventsgroupandwedding8567"><i class="fab fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/happyeventgroupgkp/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-link">
+                        <h2>Service</h2>
+                        <a>Stage Show</a>
+                        <a>Live Singing</a>
+                        <a>Bride & Groom Entry</a>
+                        <a>Russian Belly Artist</a>
+                        <%--<a>Western Dance Troupe Rock band</a>
+                        <a>Celibraty Artist Managment</a>--%>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-link">
+                        <h2>Useful Pages</h2>
+                        <a id="home2_link" runat="server">Home</a>
+                        <a id="about2_link" runat="server">About Us</a>
+                        <a id="contact2_link" runat="server">Contact Us</a>
+                        <a id="service2_link" runat="server">Service</a>
+                        <a id="gallery2_link" runat="server">Gallery</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="newsletter">
+                        <h2>About us</h2>
+                        <p>
+                            Happy Event Group is a trusted and professional Event Management Company in Gorakhpur, dedicated to creating unforgettable celebrations with creativity, perfection, and passion.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container footer-menu">
+            <div class="f-menu">
+                <a id="term_link" runat="server">Terms of use</a>
+                <a id="privacy_link" runat="server">Privacy policy</a>
+
+            </div>
+        </div>
+        <div class="container copyright">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>&copy; <a href="#">Happy Event Group</a>, All Right Reserved.</p>
+                </div>
+                <div class="col-md-6">
+                    <p>Designed By <a href="https://digitalbull.in">DigitalBull</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" defer></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" defer></script>
+    <script src="lib/easing/easing.min.js" defer></script>
+    <script src="lib/wow/wow.min.js" defer></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js" defer></script>
+    <script src="lib/isotope/isotope.pkgd.min.js" defer></script>
+    <script src="lib/lightbox/js/lightbox.min.js" defer></script>
+    <script src="lib/waypoints/waypoints.min.js" defer></script>
+    <script src="lib/counterup/counterup.min.js" defer></script>
+    <script src="lib/slick/slick.min.js" defer></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js" defer></script>
+
+</body>
+</html>
