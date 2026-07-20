@@ -101,13 +101,13 @@
 
                 <div class="col-lg-7 col-md-6">
                     <div class="section-header text-left">
-                        <h2>Celibraty Artist Managment</h2>
+                        <h2>Musical Phera</h2>
                     </div>
                     <div class="about-text">
                         <p>
-                            Make your event truly extraordinary with Happy Event Group's Celebrity Artist Management services. We specialize in arranging renowned Bollywood celebrities, singers, actors, comedians, anchors, DJs, influencers, and motivational speakers for weddings, corporate events, concerts, product launches, award ceremonies, and grand celebrations. Our experienced team manages every aspect of the artist booking process, including negotiations, contracts, travel, hospitality, technical requirements, and on-stage coordination. With a strong network of celebrity talent and flawless event execution, we ensure a seamless and memorable experience for both clients and guests. Turn your special occasion into a star-studded event with Happy Event Group's professional celebrity artist management services.
-                        </p>
+                            Transform your wedding ceremony into a soulful and unforgettable experience with Happy Event Group's Musical Phera Performance. Our talented live singers and musicians beautifully present sacred Vedic mantras, devotional melodies, and meaningful wedding vows during the seven pheras, creating a divine and emotionally captivating atmosphere. Every ritual is enhanced with melodious music, allowing couples, families, and guests to connect deeply with the traditions while making the ceremony engaging and memorable. With elegant presentation, professional artists, and seamless coordination, we ensure your wedding pheras become the most cherished moment of your special day. Inspired by the growing trend of musical pheras that blend live devotional music with traditional Hindu wedding rituals.                        
 
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-6">
@@ -131,11 +131,11 @@
                 </div>
                 <div class="col-lg-7 col-md-6">
                     <div class="section-header text-left">
-                        <h2>Bride & Groom Entry</h2>
+                        <h2>Jaimala Theme</h2>
                     </div>
                     <div class="about-text">
                         <p>
-                            Create a magical first impression with Happy Event Group's Bride & Groom Entry services. We design breathtaking and memorable wedding entrances that reflect your unique love story and style. From royal chariots, luxury vintage cars, floral entries, smoke effects, cold pyrotechnics, LED props, and mirror acts to live musicians, dancers, and themed performances, every detail is carefully planned for a grand celebration. Our expert event planners ensure flawless coordination, stunning décor, synchronized music, and spectacular lighting to make your special moment unforgettable. Let Happy Event Group transform your wedding entrance into a breathtaking experience that leaves your guests amazed and creates memories to cherish forever.
+                            Celebrate the most cherished moment of your wedding with Happy Event Group's Jaimala Theme. We design stunning Varmala ceremonies with luxurious stage décor, breathtaking floral arrangements, romantic lighting, LED effects, flower showers, cold pyrotechnics, dry ice effects, confetti blasts, and elegant couple entries. Whether you dream of a royal, fairytale, floral, or modern luxury theme, our creative team crafts a magical ambiance that makes your Jaimala ceremony truly unforgettable and picture-perfect.
                         </p>
 
                     </div>
@@ -170,5 +170,132 @@
         </div>
     </div>
     <!-- service End -->
+
+    <!-- service Start -->
+    <div class="about wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="about-img">
+                        <img src="img/bride.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-6">
+                    <div class="section-header text-left">
+                        <h2>Bride Entry</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Create a magical first impression with Happy Event Group's Bride Entry services. We design elegant and unforgettable bridal entrances featuring floral chadars, live musicians, LED walkways, cold pyrotechnics, dry ice effects, royal props, dancing performers, and customized entry themes. Whether you envision a traditional, royal, fairytale, or contemporary entrance, our expert team ensures every detail is beautifully coordinated to make your special moment emotional, graceful, and truly memorable for everyone present.                       
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- service End -->
+
+    <!-- service Start -->
+    <div class="about wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-lg-7 col-md-6">
+                    <div class="section-header text-left">
+                        <h2>Groom Entry</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Make the groom's arrival a spectacular celebration with Happy Event Group's Groom Entry services. From luxury cars and royal chariots to vintage vehicles, horses, bikes, and grand procession themes, we create unforgettable entrances enhanced with dhol, live bands, LED effects, cold pyrotechnics, smoke effects, dancers, and synchronized lighting. Whether you prefer a royal, traditional, or modern style, our team ensures a high-energy and perfectly coordinated entry that leaves a lasting impression on your guests.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <div class="about-img">
+                        <img src="img/groom.jpg" alt="Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- service End -->
+
+    <!-- service Start -->
+    <div class="about wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="about-img">
+                        <img src="img/sangeet.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-6">
+                    <div class="section-header text-left">
+                        <h2>Sangeet Night</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Turn your celebration into an unforgettable evening with Happy Event Group's Sangeet Night services. We create vibrant and entertaining Sangeet experiences featuring stunning stage décor, professional sound and lighting, LED screens, live bands, DJs, celebrity artists, choreographed dance performances, special effects, and engaging anchors. Whether it's a glamorous Bollywood-themed night, a royal celebration, or a family dance extravaganza, our expert team ensures every moment is filled with music, laughter, and lasting memories.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- service End -->
+
+    <!-- service Start -->
+    <div class="about wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-lg-7 col-md-6">
+                    <div class="section-header text-left">
+                        <h2>Haldi Carnival</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Celebrate the joy of togetherness with Happy Event Group's Haldi Carnival, where tradition meets fun and vibrant festivities. We create colorful Haldi celebrations with stunning yellow-themed décor, fresh floral arrangements, marigold backdrops, rain dance setups, dhol beats, live music, games, photo booths, eco-friendly flower showers, and exciting entertainment. Whether you prefer a traditional ceremony or a lively carnival-style event, our team ensures a cheerful, energetic, and picture-perfect celebration filled with unforgettable moments.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <div class="about-img">
+                        <img src="img/haldi.jpg" alt="Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- service End -->
+
+    <!-- service Start -->
+    <div class="about wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="about-img">
+                        <img src="img/gdance.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-6">
+                    <div class="section-header text-left">
+                        <h2>Group Dance</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Bring energy, excitement, and unforgettable entertainment to your celebration with Happy Event Group's Group Dance Performances. Our professional dancers deliver high-energy Bollywood, Punjabi, folk, fusion, and theme-based performances that captivate every guest. From wedding sangeet and receptions to corporate events and private celebrations, we offer customized choreography, vibrant costumes, dynamic stage presence, and synchronized performances to make your event truly spectacular.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- service End -->
+
 
 </asp:Content>

@@ -11,7 +11,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/carousel-1.webp" alt="Carousel Image">
+                <img src="img/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Where Royal Event</p>
                     <h1 class="animated fadeInLeft">Become Timeless Memories</h1>
@@ -20,7 +20,7 @@
             </div>
 
             <div class="carousel-item">
-                <img src="img/carousel-2.webp" alt="Carousel Image">
+                <img src="img/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Every Love Story</p>
                     <h1 class="animated fadeInLeft">Deserves a Grand Celebration</h1>
@@ -29,7 +29,7 @@
             </div>
 
             <div class="carousel-item">
-                <img src="img/carousel-3.webp" alt="Carousel Image">
+                <img src="img/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Turning Beautiful</p>
                     <h1 class="animated fadeInLeft">Moments into Lifetime Memories</h1>
@@ -92,7 +92,7 @@
     <!-- Feature End-->
 
     <!-- Gallery Start -->
-    <div class="blog">
+    <%--<div class="blog">
         <div class="container">
             <div class="section-header text-center">
                 <h2>From Planning to Perfection – We've Got It Covered</h2>
@@ -156,7 +156,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>--%>
     <!-- Gallery End -->
 
     <!-- About Start -->
@@ -250,12 +250,12 @@
                             <img src="img/service-4.jpg" alt="Image">
                             <div class="service-overlay">
                                 <p>
-                                    Professional Celebrity Artist Management, bringing renowned performers to make your event truly unforgettable and spectacular.
+                                    Transform your wedding vows into an unforgettable experience with our Musical Phera concept.
                                 </p>
                             </div>
                         </div>
                         <div class="service-text">
-                            <h3>Celibraty Artist Managment</h3>
+                            <h3>Musical Phera</h3>
                             <a class="btn" href="img/service-4.jpg" data-lightbox="service">+</a>
                         </div>
                     </div>
@@ -263,16 +263,16 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-5.jpg" alt="Image">
+                            <img src="img/jaimala.jpg" alt="Image">
                             <div class="service-overlay">
                                 <p>
-                                    Grand Bride & Groom Entry with stunning effects, music, lights, and royal-themed presentations for unforgettable weddings.
+                                    Celebrate the most magical moment of your wedding with a breathtaking Jaimala Theme designed to create unforgettable memories.
                                 </p>
                             </div>
                         </div>
                         <div class="service-text">
-                            <h3>Bride & Groom Entry</h3>
-                            <a class="btn" href="img/service-5.jpg" data-lightbox="service">+</a>
+                            <h3>Jaimala Theme</h3>
+                            <a class="btn" href="img/jaimala.jpg" data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
@@ -289,6 +289,86 @@
                         <div class="service-text">
                             <h3>Russian Belly Artist</h3>
                             <a class="btn" href="img/service-6.jpg" data-lightbox="service">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="img/bride.jpg" alt="Image">
+                            <div class="service-overlay">
+                                <p>
+                                    We specialize in designing elegant and breathtaking bridal entrances featuring floral chadars, live music, cold pyrotechnics, LED effects, flower showers, smoke effects, and beautifully themed décor.                               
+                                </p>
+                            </div>
+                        </div>
+                        <div class="service-text">
+                            <h3>Bride Entry</h3>
+                            <a class="btn" href="img/bride.jpg" data-lightbox="service">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="img/groom.jpg" alt="Image">
+                            <div class="service-overlay">
+                                <p>
+                                    Make the groom's arrival a grand and unforgettable spectacle with a Royal Groom Entry by Happy Event Group.                               
+                                </p>
+                            </div>
+                        </div>
+                        <div class="service-text">
+                            <h3>Groom Entry</h3>
+                            <a class="btn" href="img/groom.jpg" data-lightbox="service">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="img/sangeet.jpg" alt="Image">
+                            <div class="service-overlay">
+                                <p>
+                                    Celebrate the joy of music, dance, and togetherness with an unforgettable Sangeet Night organized by Happy Event Group.                               
+                                </p>
+                            </div>
+                        </div>
+                        <div class="service-text">
+                            <h3>Sangeet Night</h3>
+                            <a class="btn" href="img/sangeet.jpg" data-lightbox="service">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="img/haldi.jpg" alt="Image">
+                            <div class="service-overlay">
+                                <p>
+                                    We create a fun-filled and colorful experience featuring lively music, energetic dance performances, dhol beats, floral décor, vibrant props, flower showers, confetti, and interactive entertainment.                               
+                                </p>
+                            </div>
+                        </div>
+                        <div class="service-text">
+                            <h3>Haldi Carnival</h3>
+                            <a class="btn" href="img/haldi.jpg" data-lightbox="service">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="img/gdance.jpg" alt="Image">
+                            <div class="service-overlay">
+                                <p>
+                                    Make your celebration unforgettable with energetic and professionally choreographed Group Dance performances by Happy Event Group.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="service-text">
+                            <h3>Group Dance</h3>
+                            <a class="btn" href="img/gdance.jpg" data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
@@ -559,6 +639,13 @@
                     </div>
                 </div>
             </div>
+
+            <center>
+                <div class="ml-auto">
+                    <a class="btn2" href="photo-gallery.aspx">See More</a>
+                </div>
+            </center>
+
         </div>
     </div>
     <!-- Gallery End -->
