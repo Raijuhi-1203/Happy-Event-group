@@ -11,7 +11,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/carousel-1.jpg" alt="Carousel Image">
+                <img src="img/carousel-1.webp"  width="1600" height="703" loading="eager" decoding="async" alt="Wedding Event" fetchpriority=high>
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Where Royal Event</p>
                     <h1 class="animated fadeInLeft">Become Timeless Memories</h1>
@@ -20,7 +20,7 @@
             </div>
 
             <div class="carousel-item">
-                <img src="img/carousel-2.jpg" alt="Carousel Image">
+                <img src="img/carousel-2.webp" alt="Wedding Event" width="1600" height="703" loading="lazy" decoding="async" fetchpriority=high>
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Every Love Story</p>
                     <h1 class="animated fadeInLeft">Deserves a Grand Celebration</h1>
@@ -29,7 +29,7 @@
             </div>
 
             <div class="carousel-item">
-                <img src="img/carousel-3.jpg" alt="Carousel Image">
+                <img src="img/carousel-3.webp" alt="Wedding Event" width="1600" height="703" loading="lazy" decoding="async" fetchpriority=high>
                 <div class="carousel-caption">
                     <p class="animated fadeInRight">Turning Beautiful</p>
                     <h1 class="animated fadeInLeft">Moments into Lifetime Memories</h1>

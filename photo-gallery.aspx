@@ -28,42 +28,42 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-1.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-1.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-2.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-2.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-3.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-3.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-4.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-4.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-5.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-5.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-6.jpg" alt="Image" loading="lazy">
+                            <img src="img/service-6.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -71,42 +71,42 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/1.jpg" alt="Image" loading="lazy">
+                            <img src="img/1.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/2.jpg" alt="Image" loading="lazy">
+                            <img src="img/2.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/3.jpg" alt="Image" loading="lazy">
+                            <img src="img/3.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/4.jpg" alt="Image" loading="lazy">
+                            <img src="img/4.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/5.jpg" alt="Image" loading="lazy">
+                            <img src="img/5.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/6.jpg" alt="Image" loading="lazy">
+                            <img src="img/6.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -114,189 +114,189 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/7.jpg" alt="Image" loading="lazy">
+                            <img src="img/7.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/8.jpg" alt="Image" loading="lazy">
+                            <img src="img/8.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/9.jpg" alt="Image" loading="lazy">
+                            <img src="img/9.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/10.jpg" alt="Image" loading="lazy">
+                            <img src="img/10.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/11.jpg" alt="Image" loading="lazy">
+                            <img src="img/11.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/12.jpg" alt="Image" loading="lazy">
+                            <img src="img/12.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/13.jpg" alt="Image" loading="lazy">
+                            <img src="img/13.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/14.jpg" alt="Image" loading="lazy">
+                            <img src="img/14.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/15.jpg" alt="Image" loading="lazy">
+                            <img src="img/15.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/16.jpg" alt="Image" loading="lazy">
+                            <img src="img/16.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/17.jpg" alt="Image" loading="lazy">
+                            <img src="img/17.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/18.jpg" alt="Image" loading="lazy">
+                            <img src="img/18.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/19.jpg" alt="Image" loading="lazy">
+                            <img src="img/19.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/20.jpg" alt="Image" loading="lazy">
+                            <img src="img/20.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/21.jpg" alt="Image" loading="lazy">
+                            <img src="img/21.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/22.jpg" alt="Image" loading="lazy">
+                            <img src="img/22.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/23.jpg" alt="Image" loading="lazy">
+                            <img src="img/23.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/24.jpg" alt="Image" loading="lazy">
+                            <img src="img/24.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/25.jpg" alt="Image" loading="lazy">
+                            <img src="img/25.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/26.jpg" alt="Image" loading="lazy">
+                            <img src="img/26.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/27.jpg" alt="Image" loading="lazy">
+                            <img src="img/27.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/28.jpg" alt="Image" loading="lazy">
+                            <img src="img/28.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/29.jpg" alt="Image" loading="lazy">
+                            <img src="img/29.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/30.jpg" alt="Image" loading="lazy">
+                            <img src="img/30.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/31.jpg" alt="Image" loading="lazy">
+                            <img src="img/31.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/32.jpg" alt="Image" loading="lazy">
+                            <img src="img/32.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/33.jpg" alt="Image" loading="lazy">
+                            <img src="img/33.webp" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
