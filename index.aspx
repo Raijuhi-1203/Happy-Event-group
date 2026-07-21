@@ -91,73 +91,7 @@
     </div>
     <!-- Feature End-->
 
-    <!-- Gallery Start -->
-    <%--<div class="blog">
-        <div class="container">
-            <div class="section-header text-center">
-                <h2>From Planning to Perfection – We've Got It Covered</h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/ss.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Stage Show</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/ca.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Celibraty Artist</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 wow fadeInUp">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/ls.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Live Singing</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/rb.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Russian Belly Artist</p>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/wd.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Western Dance Troupe Rock band</p>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="blog-item">
-                        <div class="blog-img card p-1">
-                            <img src="img/bg.webp" alt="Image">
-                        </div>
-                        <br />
-                        <p>Bride & Groom Entry</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>--%>
-    <!-- Gallery End -->
+    
 
     <!-- About Start -->
     <div class="about wow fadeInUp" data-wow-delay="0.1s">
@@ -165,7 +99,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-6">
                     <div class="about-img">
-                        <img src="img/about.webp" alt="Image">
+                        <img src="img/about.webp" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6">
@@ -199,7 +133,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-1.jpg" alt="Image">
+                            <img src="img/service-1.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Spectacular stage shows featuring captivating performances that create unforgettable entertainment for every special celebration.
@@ -208,14 +142,14 @@
                         </div>
                         <div class="service-text">
                             <h3>Stage Show</h3>
-                            <a class="btn" href="img/service-1.jpg" data-lightbox="service">+</a>
+                            <a class="btn" href="img/service-1.jpg"  data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-2.jpg" alt="Image">
+                            <img src="img/service-2.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Soulful live singing performances creating unforgettable moments with melodious music for every special celebration.
@@ -231,7 +165,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-3.jpg" alt="Image">
+                            <img src="img/service-3.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Energetic Western Dance Troupe delivering vibrant performances that captivate every audience and celebration.
@@ -247,7 +181,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-4.jpg" alt="Image">
+                            <img src="img/service-4.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Transform your wedding vows into an unforgettable experience with our Musical Phera concept.
@@ -263,7 +197,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/jaimala.jpg" alt="Image">
+                            <img src="img/jaimala.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Celebrate the most magical moment of your wedding with a breathtaking Jaimala Theme designed to create unforgettable memories.
@@ -279,7 +213,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-6.jpg" alt="Image">
+                            <img src="img/service-6.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Experience mesmerizing Russian Belly Dance performances with professional artists, creating unforgettable entertainment for your special events.
@@ -288,14 +222,14 @@
                         </div>
                         <div class="service-text">
                             <h3>Russian Belly Artist</h3>
-                            <a class="btn" href="img/service-6.jpg" data-lightbox="service">+</a>
+                            <a class="btn" href="img/service-6.jpg"  data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/bride.jpg" alt="Image">
+                            <img src="img/bride.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     We specialize in designing elegant and breathtaking bridal entrances featuring floral chadars, live music, cold pyrotechnics, LED effects, flower showers, smoke effects, and beautifully themed décor.                               
@@ -311,7 +245,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/groom.jpg" alt="Image">
+                            <img src="img/groom.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Make the groom's arrival a grand and unforgettable spectacle with a Royal Groom Entry by Happy Event Group.                               
@@ -327,7 +261,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/sangeet.jpg" alt="Image">
+                            <img src="img/sangeet.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Celebrate the joy of music, dance, and togetherness with an unforgettable Sangeet Night organized by Happy Event Group.                               
@@ -343,7 +277,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/haldi.jpg" alt="Image">
+                            <img src="img/haldi.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     We create a fun-filled and colorful experience featuring lively music, energetic dance performances, dhol beats, floral décor, vibrant props, flower showers, confetti, and interactive entertainment.                               
@@ -359,7 +293,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/gdance.jpg" alt="Image">
+                            <img src="img/gdance.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                             <div class="service-overlay">
                                 <p>
                                     Make your celebration unforgettable with energetic and professionally choreographed Group Dance performances by Happy Event Group.
@@ -541,28 +475,28 @@
                 <div class="col-12">
                     <div class="testimonial-slider-nav">
                         <div class="slider-nav">
-                            <img src="img/ap.png" alt="Testimonial">
+                            <img src="img/ap.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/rahul.png" alt="Testimonial">
+                            <img src="img/rahul.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/neha.png" alt="Testimonial">
+                            <img src="img/neha.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/aman.png" alt="Testimonial">
+                            <img src="img/aman.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/pooja.png" alt="Testimonial">
+                            <img src="img/pooja.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/saurabh.png" alt="Testimonial">
+                            <img src="img/saurabh.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/deepak.png" alt="Testimonial">
+                            <img src="img/deepak.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                         <div class="slider-nav">
-                            <img src="img/sa.png" alt="Testimonial">
+                            <img src="img/sa.png" alt="Happy Event Group & Wedding Managment">
                         </div>
                     </div>
                 </div>
@@ -620,21 +554,21 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-1.jpg" alt="Image">
+                            <img src="img/service-1.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-2.jpg" alt="Image">
+                            <img src="img/service-2.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-3.jpg" alt="Image">
+                            <img src="img/service-3.jpg" loading="lazy" fetchpriority="high" width="100%" height="auto" alt="Happy Event Group & Wedding Managment">
                         </div>
                     </div>
                 </div>

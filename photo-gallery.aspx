@@ -28,42 +28,42 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-1.webp" alt="Image" loading="lazy">
+                            <img src="img/service-1.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-2.webp" alt="Image" loading="lazy">
+                            <img src="img/service-2.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-3.webp" alt="Image" loading="lazy">
+                            <img src="img/service-3.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-4.webp" alt="Image" loading="lazy">
+                            <img src="img/service-4.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-5.webp" alt="Image" loading="lazy">
+                            <img src="img/service-5.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="img/service-6.webp" alt="Image" loading="lazy">
+                            <img src="img/service-6.jpg" alt="Image" loading="lazy">
                         </div>
                     </div>
                 </div>
