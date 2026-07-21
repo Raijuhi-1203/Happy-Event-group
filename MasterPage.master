@@ -180,20 +180,26 @@
                         <h2>Service</h2>
                         <a>Stage Show</a>
                         <a>Live Singing</a>
-                        <a>Bride & Groom Entry</a>
-                        <a>Russian Belly Artist</a>
-                        <%--<a>Western Dance Troupe Rock band</a>
-                        <a>Celibraty Artist Managment</a>--%>
+                        <a>Groom Entry</a>
+                        <a>Bride Entry</a>
+                        <a>Jaiamal theme</a>
+                        <a>Celibraty Artist Managment</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
-                        <h2>Useful Pages</h2>
-                        <a id="home2_link" runat="server">Home</a>
+                        <h2>Service</h2>
+                        <a>Sangeet Night</a>
+                        <a>Halidi Carnival</a>
+                        <a>Musical Phrera</a>
+                        <a>Rock Band</a>
+                        <a>Western dance group</a>
+                        
+                        <%--<a id="home2_link" runat="server">Home</a>
                         <a id="about2_link" runat="server">About Us</a>
                         <a id="contact2_link" runat="server">Contact Us</a>
                         <a id="service2_link" runat="server">Service</a>
-                        <a id="gallery2_link" runat="server">Gallery</a>
+                        <a id="gallery2_link" runat="server">Gallery</a>--%>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
