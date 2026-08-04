@@ -10,6 +10,7 @@
             <li data-target="#carousel" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
+            
             <div class="carousel-item active">
                 <img src="img/carousel-1.webp"  width="1600" height="703" loading="eager" decoding="async" alt="Wedding Event" fetchpriority=high>
                 <div class="carousel-caption">
